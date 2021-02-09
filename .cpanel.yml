@@ -1,5 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dupilop/crystalpower.com.np/test/
+    - export DEPLOYPATH=/home/manorathryl@gmail.com/crystalpower.com.np/test/
     - /bin/cp -R * $DEPLOYPATH
+
